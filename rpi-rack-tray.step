@@ -10,8 +10,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 
-'/Users/oliver/3d-print/raspberrypi/pi-rack-improved/rpi-rack-tray.ste
-p',
+'rpi-rack-tray.step',
 /* time_stamp */ '2022-07-26T16:34:45+01:00',
 /* author */ (''),
 /* organization */ (''),
